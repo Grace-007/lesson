@@ -1,0 +1,142 @@
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 20px;
+}
+.section-one{
+    width: 700px;
+    margin: auto;
+    border: 1px solid #c3bbbb;
+}
+.box1{
+    width: 100%;
+    height: 80px;
+    border: 1px solid #ffffff;
+    background-color: #608bd3;
+}
+.text1{
+    width: 50%;
+    font-family: calibri;
+    color: #ffffff;
+    margin-top: 24px;
+    margin-left: 50px;
+    float: left;
+}
+.img{
+    margin-top: 22px;
+    margin-left: 240px;
+}
+.section-two{
+    width: 700px;
+    margin: auto;
+    border: 1px solid #c4b9b9;
+}
+.box2{
+    width: 100%;
+    border: 1px solid #cbc3c3;
+}
+.line1{
+    width: 270px;
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.text2{
+    font-family: calibri;
+    float: left;
+    margin-top: 22px;
+    margin-left: 27px;
+    color: #8f9497;
+}
+.line2{
+    width: 270px;
+    margin-top: 30px;
+    margin-left: 23px;
+    float: left;
+}
+.time{
+    width: 100%;
+    max-width: 100px;
+    display: block;
+    margin-right: auto;
+    margin-left: 26px;
+    font-family: calibri;
+    color: #9b9799;
+}
+.box3{
+    width: 100%;
+    border: 1px solid #ffffff;
+}
+.chat{
+    list-style: none;
+}
+.inside-chat{
+    width: 300px;
+    height: 55px;
+    border: 1px solid #ffffff;
+    margin-left: -16px;
+    border-radius: 5px;
+    background-color: #e3ebf5;
+}
+.word{
+    margin-top: -0px;
+    margin-top: 8px;
+    margin-left: 10px;
+    font-family: calibri;
+    
+}
+.time2{
+    display: block;
+    margin-top: 10px;
+    margin-left: 590px;
+    font-family: calibri;
+    color: #9b9799;
+}
+.inside-chat2{
+    width: 300px;
+    height: 55px;
+    border: 1px solid #ffffff;
+    margin-left: 327px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+}
+.time3{
+    display: block;
+    margin-top: 10px;
+    margin-left: -15px;
+    font-family: calibri;
+    color: #9b9799;
+}
+.inside-chat3{
+    width: 100px;
+    height: 40px;
+    margin-left: -16px;
+    margin-top: 10px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    background-color: #e3ebf5;
+}
+.inside-chat4{
+    width: 220px;
+    height: 40px;
+    border: 1px solid #d7d4d4;
+    margin-left: 410px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: #febab9;
+}
+.line3{
+    width: 640px;
+}
+.word2{
+    margin-left: 32px;
+    font-family: calibri;
+    float: left;
+}
+.send{
+    margin-left: 617px;
+    font-family: calibri;
+    color: #718cc8;
+}
